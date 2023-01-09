@@ -1,0 +1,15 @@
+{
+    "name": "mucha/router",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hexan45",
+            "email": "matwinski2@gmail.com"
+        }
+    ],
+    "require": {}
+}
